@@ -113,6 +113,7 @@ body {
   border-radius: 11px;
   cursor: pointer;
   display: block;
+  font-family: inherit;
   font-size: 15px;
   font-weight: 900;
   padding: 1rem 0;
@@ -140,8 +141,7 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
-  position: absolute;
-  bottom: 0.5rem;
+  margin-top: 1rem;
 }
 
 .attribution a {
@@ -175,6 +175,7 @@ body {
   /* Inner Card */
   .card--inner {
     margin: 0 3rem;
+    padding: 1.5rem;
   }
 
   .card--inner .heading--inner,
@@ -189,5 +190,11 @@ body {
   /* Card Buttons */
   .card__btns {
     padding: 2rem 3rem;
+  }
+
+  /* Footer */
+  .attribution {
+    position: absolute;
+    bottom: 0.5rem;
   }
 }
