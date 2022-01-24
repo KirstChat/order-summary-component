@@ -28,8 +28,6 @@ Users should be able to:
 - Solution URL: [https://www.frontendmentor.io/solutions/solution-for-order-summary-component-GZoB_rtoM](https://www.frontendmentor.io/solutions/solution-for-order-summary-component-GZoB_rtoM)
 - Live Site URL: [https://kirstchat.github.io/order-summary-component/](https://kirstchat.github.io/order-summary-component/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
