@@ -4,16 +4,13 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Built with](#built-with)
-  - [Author](#author)
+- [Built with](#built-with)
+- [Author](#author)
 
-## Overview
-
-### The challenge
+## The challenge
 
 Users should be able to:
 
@@ -28,15 +25,14 @@ Users should be able to:
 - Solution URL: [https://www.frontendmentor.io/solutions/solution-for-order-summary-component-GZoB_rtoM](https://www.frontendmentor.io/solutions/solution-for-order-summary-component-GZoB_rtoM)
 - Live Site URL: [https://kirstchat.github.io/order-summary-component/](https://kirstchat.github.io/order-summary-component/)
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
-### Author
+## Author
 
-- LinkedIn - [Kirsty Chatterton](https://www.linkedin.com/in/kirsty-c-154781a4/)
-- Github - [KirstChat](https://github.com/KirstChat)
 - Frontend Mentor - [@KirstChat](https://www.frontendmentor.io/profile/KirstChat)
+- LinkedIn - [Kirsty Chatterton](https://www.linkedin.com/in/kirsty-c-154781a4/)
